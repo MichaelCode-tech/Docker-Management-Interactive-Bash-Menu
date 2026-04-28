@@ -53,7 +53,7 @@ Ready-to-use Docker Compose profiles.
 Open a terminal and run:
 
 ```bash
-git clone git@github.com:Jdhdx/docker-management.git
+git clone https://github.com/MichaelCode-tech/Docker-Management-Interactive-Bash-Menu.git
 cd docker-management
 chmod +x docker.sh
 ./docker.sh
